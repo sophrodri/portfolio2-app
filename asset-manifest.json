@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio2-app/static/css/main.6e23a8d5.css",
+    "main.js": "/portfolio2-app/static/js/main.e056e561.js",
+    "static/js/787.43f66ca3.chunk.js": "/portfolio2-app/static/js/787.43f66ca3.chunk.js",
+    "static/media/cabin.png": "/portfolio2-app/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/portfolio2-app/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/portfolio2-app/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/portfolio2-app/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/portfolio2-app/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/portfolio2-app/static/media/cake.6554473016d32b343f02.png",
+    "static/media/profile.png": "/portfolio2-app/static/media/profile.39e1e0a6d05b8e0134d1.png",
+    "index.html": "/portfolio2-app/index.html",
+    "main.6e23a8d5.css.map": "/portfolio2-app/static/css/main.6e23a8d5.css.map",
+    "main.e056e561.js.map": "/portfolio2-app/static/js/main.e056e561.js.map",
+    "787.43f66ca3.chunk.js.map": "/portfolio2-app/static/js/787.43f66ca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e23a8d5.css",
+    "static/js/main.e056e561.js"
+  ]
+}
